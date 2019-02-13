@@ -342,3 +342,8 @@ default:
 ## Typecasting, Nested Types
 
 ## Extensions, Protocols, Generics
+
+## Useful Links
+
+- Swift Book (Documentation): https://docs.swift.org/swift-book/
+- Style Guide: https://swift.org/documentation/api-design-guidelines/
